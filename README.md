@@ -17,9 +17,3 @@ These notebooks are not polished projects. They are short working notes and quic
 ## Author
 
 **Mohd Nizam Nasir Shaikh**
-
-MSc Financial Technology — National College of Ireland, Dublin
-
-LinkedIn: https://www.linkedin.com/in/nizam-shaikh-90b737199
-
-GitHub: https://github.com/nizamshaikh12
